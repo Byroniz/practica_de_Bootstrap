@@ -1,0 +1,85 @@
+.logo-nav{
+margin-left: 30px;
+
+}
+
+.navbar-collapse{
+    margin-left: 350px;
+}
+
+.carousel-caption{
+    text-align: right;
+    
+}
+
+
+.fondo{
+    display: block;
+    height: 800px;
+    width:100%;
+}
+
+
+.box2{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.CARDS{
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 4rem;
+}
+
+
+
+.card3{
+    max-height: 8rem;
+    width: 100%;
+    margin-top: 80px;
+}
+
+
+.card-body3{
+text-align:left;
+margin-top: 20px;
+margin-right: 10px;
+}
+
+
+.forms{
+    
+    text-align: center;
+    margin-top: 300px;
+}
+
+.form{
+    justify-content: center;
+    text-align: center;
+    height: 300px;
+}
+
+
+#nombre{
+    width: 500px;
+    margin-left:200px ;
+}
+
+#apellido{
+
+    width: 500px;
+    margin-left: 700px;
+    margin-top: -48px;
+}
+
+#textarea{
+    width: 1000px;
+    margin-left: 200px;
+}
+
+#botonform{
+    width: 1000px;
+    margin-left: 100px;
+}
